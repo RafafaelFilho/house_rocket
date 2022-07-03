@@ -37,7 +37,7 @@
 <ul>
     <li>Utilizar o banco de dados disponibilizado pela House Rocket para fazer as análises.</li>
     <li>Validação das hipóteses por meio de Exploratory Data Analysis.</li>
-    <li>Cria tabelas dos imóveis que não devem ser comprados, imóveis que podem ser comprados e imóveis que tem possibilidade de reformar após a compra.
+    <li>Cria tabelas dos imóveis que não devem ser comprados, imóveis que podem ser comprados e imóveis que tem possibilidade de reformar após a compra.</li>
     <li>Criar plataforma utilizando o Streamlit para fazer uma visualização simples e personalizável para analisar os dados com nível de acesso.</li>
 </ul>
 <hr>
